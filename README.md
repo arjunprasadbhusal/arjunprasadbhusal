@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Arjun Bhusal. 👋<br>I’m a passionate web developer 💻 focused on building dynamic, responsive, and user-friendly web applications using Laravel 🛠️ and Tailwind CSS 🎨.<br>I enjoy turning ideas into functional systems — whether it’s a car booking platform 🚗, a student enrollment system 🎓, or a professional painting service website 🖌️🏠.<br><br>
+Hi, I am Arjun Bhusal. 👋<br>I’m a passionate web developer 💻 focused on building dynamic, responsive, and user-friendly web applications using Laravel 🛠️ and Tailwind CSS 🎨.<br>🏠.<br><br>
 
 
 ## 🌐 Socials:
