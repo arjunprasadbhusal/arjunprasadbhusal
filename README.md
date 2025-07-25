@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Arjun Bhusal. 👋<br>I’m a passionate web developer 💻 focused on building dynamic, responsive, anduser-friendly web applications using Laravel 🛠️ and Tailwind CSS 🎨.<br><br><br>
+Hi, I am Arjun Bhusal. 👋<br>I’m a passionate web developer 💻 focused on building dynamic,responsive, anduser-friendly web applications using Laravel 🛠️ and Tailwind CSS 🎨.<br><br><br>
 
 
 ## 🌐 Socials:
